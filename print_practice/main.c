@@ -36,4 +36,6 @@ void print_LoveSentence(void)
 {
 	printf("“如果我们学习这么多知识，却不能用来帮助他人，那学来何用呢？”**\n");
 	printf("“那学来何用呢？”**\n");
+	printf("“那学来何用呢？”**\n");
+
 }
